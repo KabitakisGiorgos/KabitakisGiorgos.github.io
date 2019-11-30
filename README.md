@@ -1,2 +1,2 @@
 # Personal Site
-A deployed site about me. You can check it out at [https://kabitakisgiorgos.github.io/#/](https://kabitakisgiorgos.github.io/#/)
+A deployed site about me. You can check it out at [https://gkampitakis.github.io/#/](https://gkampitakis.github.io/)
